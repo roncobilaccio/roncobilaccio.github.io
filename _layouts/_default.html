@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -27,7 +27,7 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
       </header>
-        <p>  
+      <section>  
         # About me
         I was born in 1993 and I currently live in Florence. 
         I love cinema, TV series, sports (especially tennis), hiking, D&D, and videogames. 
@@ -37,18 +37,18 @@
         I work in the world of software and technology, where I design and develop applications with a focus on clarity, maintainability, and long‑term reliability.  
         I enjoy solving problems, improving processes, and creating tools that make everyday work smoother.
         I specialize in .NET, C#, SQL Server, and backend development.
-        </p>
-<footer>
-  <p>Follow me:</p>
-  <ul>
-    {% if site.social.instagram %}
-      <li><a href="{{ site.social.instagram }}" target="_blank">Instagram</a></li>
-    {% endif %}
-    {% if site.social.linkedin %}
-      <li><a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a></li>
-    {% endif %}
-  </ul>
-</footer>
+      </section>
+      <footer>
+        <p>Follow me:</p>
+        <ul>
+          {% if site.social.instagram %}
+            <li><a href="{{ site.social.instagram }}" target="_blank">Instagram</a></li>
+          {% endif %}
+          {% if site.social.linkedin %}
+            <li><a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a></li>
+          {% endif %}
+        </ul>
+      </footer>
 
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
