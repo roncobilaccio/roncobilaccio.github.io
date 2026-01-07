@@ -19,6 +19,7 @@ I specialize in .NET, C#, SQL Server, and backend development.
 - ASP.NET Web API
 - Entity Framework Core
 - SQL Server
+- Angular (basics)
 
 ## NuGet Packages I use often
 - MediatR
@@ -37,26 +38,26 @@ I specialize in .NET, C#, SQL Server, and backend development.
 - Event‑Driven Architecture (basics)
 
 # Experience Timeline
+## October 2014 – April 2015
+**Technical Support**
+- Support for management software, email services, and the Microsoft Office suite
+- Troubleshooting issues related to computers, printers, and internet networks
+- Handling technical requests and daily troubleshooting
 
-## Ottobre 2014 – Aprile 2015  
-**Assistenza Tecnica**  
-- Supporto ai clienti per software gestionale, posta elettronica e pacchetto Office  
-- Risoluzione problemi su computer, stampanti e reti internet  
-- Gestione delle richieste tecniche e troubleshooting quotidiano  
+## May 2015 – June 2017
+**Software Developer & Technical Support**
+- Software development using the .NET platform
+- Application development using FileMaker
+- Management and maintenance of IT systems for client companies
+- Corporate IT technical support
 
-## Maggio 2015 – Giugno 2017  
-**Sviluppatore Software & Supporto Tecnico**  
-- Sviluppo software tramite piattaforma .NET  
-- Sviluppo applicazioni tramite FileMaker  
-- Gestione e manutenzione dei sistemi in dotazione ai clienti  
-- Assistenza tecnica informatica aziendale  
-
-## Giugno 2017 – Oggi  
-**Sviluppatore Web & Consulente Tecnico**  
-- Sviluppo applicazioni web tramite piattaforma Microsoft .NET  
-- Consulenza tecnica per clienti aziendali  
-- Sviluppo portale web per gestione e studio di pazienti oncologici  
-- Sviluppo portale web per gestione di dottori e pazienti in ambito impedenziometrico  
-- Progettazione SSIS per porting database Access verso soluzioni web  
-- Sviluppo e assistenza su applicazioni e servizi web per gestione clienti e prenotazioni alberghiere  
-- Sviluppo e assistenza su applicazioni e servizi web per eCommerce nel settore moda  
+## June 2017 – Present
+**Web Developer & Technical Consultant**
+- Development of web applications using the Microsoft .NET platform
+- Technical consulting for corporate clients
+- Development of a web portal for the management and analysis of oncology patients
+- Development of a web portal for managing doctors and patients in the bioimpedance field
+- SSIS design for migrating Access databases to web-based solutions
+- Development and support of web applications and services for hotel customer management and booking systems
+- Development and support of web applications and services for eCommerce in the fashion industry
+- Development and support of web applications and services for a company operating in the transportation sector
