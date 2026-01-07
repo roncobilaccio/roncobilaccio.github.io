@@ -1,7 +1,7 @@
 # theme: jekyll-theme-minimal
 title: Welcome to Stefano's GitHub page
 description: Site under construnction
-# remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: false
