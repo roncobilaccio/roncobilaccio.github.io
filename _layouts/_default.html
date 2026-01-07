@@ -38,9 +38,18 @@
         I enjoy solving problems, improving processes, and creating tools that make everyday work smoother.
         I specialize in .NET, C#, SQL Server, and backend development.
         </p>
-      <footer>
-        
-      </footer>
+<footer>
+  <p>Follow me:</p>
+  <ul>
+    {% if site.social.instagram %}
+      <li><a href="{{ site.social.instagram }}" target="_blank">Instagram</a></li>
+    {% endif %}
+    {% if site.social.linkedin %}
+      <li><a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a></li>
+    {% endif %}
+  </ul>
+</footer>
+
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
